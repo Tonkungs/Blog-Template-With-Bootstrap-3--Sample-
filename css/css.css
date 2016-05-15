@@ -1,0 +1,92 @@
+body{
+	background: #fff url(../img/bg.png) repeat;
+}
+p{
+	color: blue;
+	background: green;
+	padding: 1em;
+	border-style: solid;
+	border-color: red;
+}
+footer{
+	background: black ;
+	color: #FFF;
+	text-align: center;
+}
+hr{
+	border-style: solid;
+	border-color: red;
+}/*
+a:link {
+	color: #FFF; 
+	text-decoration: none;}
+a:visited {
+	color: #FFF; 
+	text-decoration: none;}
+a:hover {
+	color: #FFF; 
+	text-decoration: underline;}
+a:active {
+	color: #FFF; 
+	text-decoration: underline;}*/
+.navbar-head-img{
+	margin: 0.85em;
+    width: 1.9em;
+    height: 1.9em;
+}
+#main{
+	/*background: blue ;*/
+}
+.topics{
+	background: black;
+	padding: 0.7em;
+	color: #FFF;
+	text-decoration: none;
+}
+.posts{
+	background: #F5F5F5;
+	box-shadow: 5px 5px 35px gray;
+	margin-bottom: 2em;
+}
+.main-post{
+	padding: 1em;
+}
+.post-topics{
+	padding: 1em;
+	word-wrap: break-word; /*คำสั่ง ตัดคำ*/
+	height: 12em;
+}
+article{
+	padding: 1em;
+	word-wrap: break-word; /*คำสั่ง ตัดคำ*/
+}
+.readmore{
+	padding: 0.5em;
+	text-align: right;
+	background-color: #e0e0e0;
+	
+}
+.head-left-body{
+	margin-bottom: 2em;
+	background: #F5F5F5;
+	padding: 0.7em 0.7em;
+	box-shadow: 5px 5px 35px gray;
+}
+.head-left-meun{
+	padding: 0.7em 0.7em;
+	color: #fff;
+	background: black;
+}
+.pop-posts{
+	border-bottom: solid;
+	border-color: gray;
+	border-width: 0.1em;
+	padding: 0.3em;
+}
+.pop-posts-comment{
+	padding: 0.5em;
+}
+.pic-username{
+	text-align: center;
+}
+/*body { padding-top: 70px; }*/
